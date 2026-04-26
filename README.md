@@ -144,7 +144,3 @@ cd frontend && npm run build
 ```
 
 ---
-
-## Contact (Challenge)
-- arun@fulcrum.science
-- jonas@fulcrum.science
